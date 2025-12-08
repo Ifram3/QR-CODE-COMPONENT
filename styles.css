@@ -90,7 +90,7 @@ body {
 
 
 
-@media only screen and (max-width: 20em) {
+@media only screen and (min-width: 20em) {
     .container {
         max-width: 18.8rem;
         min-height: 28.13rem;
